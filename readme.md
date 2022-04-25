@@ -62,7 +62,7 @@ public class ButtonEvent : MonoBehaviour
 
   ![Resources](/Img/Resources.png)
 
-- 各画像ファイルのInspctorで、Advanced →「Read/Write Enabled」をチェックする  
+- 各画像ファイルのInspectorで、Advanced →「Read/Write Enabled」をチェックする  
 
   ![Inspector](/Img/Inspector.png)
 
